@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SnifiPlays
 - 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning C#
 - 📫 How to reach me Discord 'snifi plays#4084'
 
 <!---
