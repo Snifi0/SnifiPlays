@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SnifiPlays
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning C#
-- 📫 How to reach me Discord 'snifi plays#4084'
+- 📫 How to reach me Discord 'snifi#4084'
 
 <!---
 SnifiPlays/SnifiPlays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
