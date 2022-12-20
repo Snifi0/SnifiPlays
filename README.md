@@ -1,4 +1,4 @@
-- Sup, I’m @SnifiPlays
+- Sup, I’m @Snifi0
 - If you want to reach out to me here is my Discord 'snifi#4084'
 - More soon :>
 <!---
